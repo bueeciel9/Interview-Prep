@@ -1,4 +1,4 @@
-Light Detection
+**Light Detection**
  And Ranging (LiDAR) is a point-and-shoot device with
  three basic components of lens, lasers and detectors, which
  spits out light pulses that will bounce off the surroundings
