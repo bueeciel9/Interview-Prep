@@ -8,3 +8,9 @@ monocular camera lends itself well to informative color and texture attributes, 
  
  
 The distance of obstacles could be determined without effort. LiDAR system emits thousands of pulses that spin around in a circle per second, with a 360 degree view of surroundings for the vehicles being provided. 
+
+<br>
+
+![image](https://user-images.githubusercontent.com/65759092/196404486-37335402-edca-424f-b21f-989d61435aec.png)
+
+<br>
