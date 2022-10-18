@@ -11,6 +11,6 @@ The distance of obstacles could be determined without effort. LiDAR system emits
 
 <br>
 
-![image](https://user-images.githubusercontent.com/65759092/196404486-37335402-edca-424f-b21f-989d61435aec.png)
+![image](https://user-images.githubusercontent.com/65759092/196404830-27f4223d-43b7-456f-bbe2-3b0382e14b4b.png)
 
 <br>
